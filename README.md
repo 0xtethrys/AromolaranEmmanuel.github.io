@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aromolaran Emmanuel
 
-Cybersecurity enthusiast and SOC Analyst passionate about threat detection, incident response, and blue team operations. I specialize in log analysis, SIEM monitoring, and security investigations using tools like Splunk, Wazuh SIEM, and Wireshark
+Cybersecurity Instructor and SOC Analyst passionate about threat detection, incident response, and blue team operations. I specialize in log analysis, SIEM monitoring, and security investigations using tools like Splunk, Wazuh SIEM, and Wireshark
 
 Currently building hands-on experience through real-world labs, detection engineering projects, and incident investigation simulations focused on network security, cloud security, and threat hunting.
 

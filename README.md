@@ -25,4 +25,4 @@ I enjoy breaking down complex security concepts into practical workflows and con
 
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://linkedin.com/in/emmie-aromolaran)
-[![Email](https://img.shields.io/badge/-Email-red)](sopearomolaran@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-red)](mailto:sopearomolaran@gmail.com)

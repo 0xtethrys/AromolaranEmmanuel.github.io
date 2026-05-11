@@ -11,7 +11,7 @@ I enjoy breaking down complex security concepts into practical workflows and con
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-**🔐 Security Tools**
+## 🔐 Security Tools 
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?logo=splunk&logoColor=white) 
 ![Nmap](https://img.shields.io/badge/-Nmap-0E83CD?logo=nmap&logoColor=white) 
 ![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?logo=metasploit&logoColor=white)
